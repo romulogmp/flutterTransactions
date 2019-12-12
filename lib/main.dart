@@ -84,8 +84,6 @@ class ListaTransferencias extends StatefulWidget {
 
   final List<Transferencia> _transferencias = List();
 
-
-
   @override
   State<StatefulWidget> createState() {
 
